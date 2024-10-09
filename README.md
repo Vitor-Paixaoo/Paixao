@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Vitor Paixão 😎
+## Bem-vindo(a) ao perfil de Vitor Paixão😎 
 
  <div>
-   <a href="https://github.com/Vitor-Paixaoo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Paixaoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Paixaoo&layout=compact&langs_count=6&theme=dark"/>
+   <a href="https://github.com/dVitor-Paixaoo">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Paixaoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Paixaoo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
