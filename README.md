@@ -2,8 +2,8 @@
 
 <div>
    <a href="https://github.com/Vitor-Paixaoo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Paixaoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Paixaoo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" alt="GitHub Stats Temporariamente Indisponível" src="https://via.placeholder.com/468x180?text=GitHub+Stats+Indispon%C3%ADvel"/>
+   <img height="180em" alt="Linguagens Mais Usadas Temporariamente Indisponível" src="https://via.placeholder.com/468x180?text=Linguagens+Mais+Usadas+Indispon%C3%ADvel"/>
 </div>
 
 <div><br>
